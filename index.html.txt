@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Thanks!</title>
+    <style>
+      body {
+        text-align: center;
+        margin-top: 50px;
+        font-family: sans-serif;
+      }
+      img {
+        max-width: 90%;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="courage.gif" alt="Thank you gif" />
+    <h2>Thanks for Support</h2>
+  </body>
+</html>
